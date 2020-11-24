@@ -1,2 +1,2 @@
-# BroadcastBestPractice
-广播强制下线，记住密码
+# BroadcastBestPractice1
+在广播接收器中创建通知
